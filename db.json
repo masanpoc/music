@@ -2,7 +2,7 @@
     "albums":[
         {
             "id": "1",
-            "reference": "../img/CJ.jpg" ,
+            "reference": "/img/CJ.jpg" ,
             "title": "New Flesh",
             "author": "Current Joys",
             "year": 2020,
@@ -10,7 +10,7 @@
         },
         {
             "id": "2",
-            "reference": "./img/B.jpg" ,
+            "reference": "/img/B.jpg" ,
             "title": "Passion",
             "author": "Borrtex",
             "year": 2019,
@@ -18,7 +18,7 @@
         },
         {
             "id": "3",
-            "reference": "./img/BM.jpg",
+            "reference": "/img/BM.jpg",
             "title": "Hold On",
             "author": "Blonde Maze",
             "year": 2018,
@@ -26,7 +26,7 @@
         },
         {
             "id": "4",
-            "reference": "./img/CM.jpg",
+            "reference": "/img/CM.jpg",
             "title": "Ghosts to Come",
             "author": "Clint Mansell",
             "year": 2014,
@@ -34,7 +34,7 @@
         },
         {
             "id": "5",
-            "reference": "./img/MZ.jpg",
+            "reference": "/img/MZ.jpg",
             "title": "Dark Waters",
             "author": "Marcelo Zarvos",
             "year": 2020,
@@ -42,7 +42,7 @@
         },
         {
             "id": "6",
-            "reference": "./img/TN.jpg" ,
+            "reference": "/img/TN.jpg" ,
             "title": "1917",
             "author": "Thomas Newman",
             "year": 2020,
@@ -50,7 +50,7 @@
         },
         {
             "id": "7",
-            "reference": "./img/TTT.jpg" ,
+            "reference": "/img/TTT.jpg" ,
             "title": "Thick as Thieves",
             "author": "The Temper Trap",
             "year": 2017,
