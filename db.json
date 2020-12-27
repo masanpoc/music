@@ -2,7 +2,7 @@
     "albums":[
         {
             "id": "1",
-            "reference": "../public/img/CJ.jpg" ,
+            "reference": "../../public/img/CJ.jpg" ,
             "title": "New Flesh",
             "author": "Current Joys",
             "year": 2020,
