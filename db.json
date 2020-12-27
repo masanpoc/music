@@ -1,0 +1,77 @@
+{
+    "albums":[
+        {
+            "id": "1",
+            "reference": "./img/CJ.jpg" ,
+            "title": "New Flesh",
+            "author": "Current Joys",
+            "year": 2020,
+            "name": "New Flesh Current Joys 2020"
+        },
+        {
+            "id": "2",
+            "reference": "./img/B.jpg" ,
+            "title": "Passion",
+            "author": "Borrtex",
+            "year": 2019,
+            "name": "Passion Borrtex 2019"
+        },
+        {
+            "id": "3",
+            "reference": "./img/BM.jpg",
+            "title": "Hold On",
+            "author": "Blonde Maze",
+            "year": 2018,
+            "name": "Hold On Blonde Maze 2018"
+        },
+        {
+            "id": "4",
+            "reference": "./img/CM.jpg",
+            "title": "Ghosts to Come",
+            "author": "Clint Mansell",
+            "year": 2014,
+            "name": "Ghosts to Come Clint Mansell 2014"
+        },
+        {
+            "id": "5",
+            "reference": "./img/MZ.jpg",
+            "title": "Dark Waters",
+            "author": "Marcelo Zarvos",
+            "year": 2020,
+            "name": "Dark Waters Marcelo Zarvos 2020"
+        },
+        {
+            "id": "6",
+            "reference": "./img/TN.jpg" ,
+            "title": "1917",
+            "author": "Thomas Newman",
+            "year": 2020,
+            "name": "1917 Thomas Newman 2020"
+        },
+        {
+            "id": "7",
+            "reference": "./img/TTT.jpg" ,
+            "title": "Thick as Thieves",
+            "author": "The Temper Trap",
+            "year": 2017,
+            "name": "Thick as Thieves The Temper Trap 2017"
+        }
+    ],
+    "producers":[
+        {
+            "id": "1",
+            "name": "Silver",
+            "description": "jklljkljkld"
+        },
+        {
+            "id": "2",
+            "name": "Gold",
+            "description": "ddddddd"
+        },
+        {
+            "id": "3",
+            "name": "Bronze",
+            "description": "eeeeeee"
+        }
+    ]
+}
